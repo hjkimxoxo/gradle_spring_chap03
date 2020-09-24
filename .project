@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>gradle_spring5_chap02</name>
-	<comment>Project gradle_spring5_chap02 created by Buildship.</comment>
+	<name>gradle_spring_02chap</name>
+	<comment>Project gradle_spring_02chap created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
